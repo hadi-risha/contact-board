@@ -1,6 +1,6 @@
 # Contact table & board
 
-Built by **Hadi Risha** · [Live demo](https://app.vercel.app) · [Source](https://github.com/YOUR-USERNAME/contact-board)
+Built by **Hadi Risha** · [Live demo](https://contact-board.vercel.app/) · [Source](https://github.com/hadi-risha/contact-board.git)
 
 A prototype for the Alpha frontend design engineer assignment. Ten fictional contacts, shown as a table or as a board (Lead, Prospect, Qualified, Customer), and editable from either view through one details panel.
 
